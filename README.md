@@ -1,4 +1,4 @@
-# nuxtkoa2
+# Langonic
 
 > Nuxt.js project
 
