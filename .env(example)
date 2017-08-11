@@ -1,0 +1,19 @@
+PREFIX=http
+HOST=127.0.0.1
+PORT=3000
+
+socialsAuthURL=/api/v1/auth
+socialsVkClientID=***
+socialsVkClientSecret=***
+socialsFbClientID=***
+socialsFbClientSecret=***
+socialsGoogleClientID=***
+socialsGoogleClientSecret=***
+
+yandexTranslateKey=***
+
+databaseURL=mongodb://localhost:27017/langonic
+
+secret=secretForJWT
+
+congratz=<audio autoplay><source src="https://..." type="audio/wav" /></audio>

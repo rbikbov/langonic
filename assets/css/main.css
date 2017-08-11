@@ -1,0 +1,66 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  color: #2e2f30;
+  letter-spacing: 0.5px;
+  font-family: "Roboto", Arial, sans-serif;
+  /* font-family: "Source Sans Pro", Arial, sans-serif; */
+  font-size: 1em;
+  word-wrap: break-word;
+  background-color: #000;
+}
+
+.page-enter-active,
+.page-leave-active {
+  transition: opacity .5s;
+}
+.page-enter,
+.page-leave-active {
+  opacity: 0;
+}
+
+.fa {
+  width: auto;
+  height: 1em; /* or any other relative font sizes */
+}
+
+/*.modal-enter
+  opacity: 0
+
+.modal-leave-active
+  opacity: 0
+
+.modal-enter .modal-container,
+.modal-leave-active .modal-container
+  -webkit-transform: scale(1.1)
+  transform: scale(1.1)
+
+.fade-enter-active, .fade-leave-active
+  transition: all 0.2s ease
+
+
+.fade-enter, .fade-leave-active
+  opacity: 0
+
+
+.main-view
+  transition: all .6s cubic-bezier(.55,0,.1,1)
+
+.slide-left-enter, .slide-right-leave-active
+  opacity: 0
+  -webkit-transform: translate(-100%, 0)
+  transform: translate(-100%, 0)
+
+.slide-right-enter, .slide-left-leave-active
+  opacity: 0
+  -webkit-transform: translate(100%, 0)
+  transform: translate(100%, 0)*/
+
+/*.fade-leave-active*/
+/*transform-style: preserve-3d*/
+/*transform: rotateX(360deg) rotateY(360deg)*/
+/*transition: transform 1s*/
